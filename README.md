@@ -3,6 +3,9 @@
 - Glide library 
 - Implicit intent data to share in different apps
 
+# Screenshots - 
+<img src="https://github.com/JyotiJauhari/Share-Memes/blob/master/Screenshots/main%20screen.jpeg" width = "200" height = "400"  >	 
+
 # How I made it 🤔
 ## Simple UI - Not a big deal
 - Image View
